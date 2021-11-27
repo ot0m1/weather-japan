@@ -1,6 +1,6 @@
 import request from 'request'
 import dayjs from 'dayjs'
-import { weatherCodes } from './weatherCodes.js'
+import { weatherCodes } from './weather-codes.js'
 
 const JMA = 'https://www.jma.go.jp/bosai/forecast/data/forecast/010000.json'
 
