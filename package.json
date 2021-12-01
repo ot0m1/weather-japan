@@ -1,6 +1,6 @@
 {
   "name": "weather-japan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is an application that displays a simple nationwide weather forecast for Japan.",
   "main": "weather-japan.js",
   "scripts": {
