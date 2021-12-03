@@ -1,7 +1,7 @@
 # weather-japan
 This is an application that displays a simple nationwide weather forecast for Japan.
 
-![スクリーンショット 2021-12-03 21 25 10](https://user-images.githubusercontent.com/6190966/144602493-01456111-56c9-40fb-8b4d-a27a9aa6d74c.png)
+![screenshot](https://user-images.githubusercontent.com/6190966/144602806-2df317d9-0e51-49db-a196-1f7efda33a5b.png)
 
 # Getting Started
 
