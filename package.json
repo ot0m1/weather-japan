@@ -3,6 +3,9 @@
   "version": "1.0.3",
   "description": "This is an application that displays a simple nationwide weather forecast for Japan.",
   "main": "weather-japan.js",
+  "bin": {
+    "weather-japan": "./weather-japan.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
