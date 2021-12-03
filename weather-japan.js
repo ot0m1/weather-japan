@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import request from 'request'
 import dayjs from 'dayjs'
 import { weatherCodes } from './weather-codes.js'
