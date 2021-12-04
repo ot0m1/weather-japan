@@ -5,12 +5,10 @@ This is an application that displays a simple nationwide weather forecast for Ja
 
 # Getting Started
 ## Attention
-
-
-## Installation
 **This application uses a json file provided by the Japan Meteorological Agency, which is retrieved via HTTP request.To avoid overloading the provider, avoid running a large number of applications in a short period of time.**
 
 **このアプリケーションは、気象庁が提供するjsonファイルをHTTPリクエストで取得して利用しています。提供元に負荷をかけないために、短時間で大量にアプリケーションを実行することは避けてください。**
+## Installation
 
 The easiest way to install:
 
